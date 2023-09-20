@@ -1,0 +1,11 @@
+pandas
+opencv-python
+matplotlib  
+nbformat
+scikit-image
+seaborn
+tensorflow
+plotly
+ipython
+keras_preprocessing    
+ipykernel
